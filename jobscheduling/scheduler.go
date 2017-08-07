@@ -1,3 +1,10 @@
+/*
+*  This program can reads the input from file/buffer and 
+*  caluclate wiegthed computation time for various jobs.
+*  you can add a new computation function and send it to initlizer.
+*  schedulur filename <index type> 
+*  "index type" is type for calculating the weight   
+*/
 package main
 
 import (
